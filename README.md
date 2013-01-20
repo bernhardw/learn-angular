@@ -49,7 +49,7 @@ http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp
 
 ## Articles
 [AngularJS Dynamic Templates – Yes We Can!](http://onehungrymind.com/angularjs-dynamic-templates/)  
-[AngularJS And Something For The Designers In My Life](http://onehungrymind.com/for-the-designers/)
+[AngularJS And Something For The Designers In My Life](http://onehungrymind.com/for-the-designers/)  
 [Notes On AngularJS Scope Life-Cycle](http://onehungrymind.com/notes-on-angularjs-scope-life-cycle/)  
 [Building Huuuuuge Apps with AngularJS](http://briantford.com/blog/huuuuuge-angular-apps.html)  
 
@@ -77,13 +77,13 @@ wReader: https://github.com/GoogleChrome/wReader-app
 
 
 ## Other
-http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED
+http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED  
 https://github.com/angular/angular.js/wiki/The-Nuances-of-Scope-Prototypal-Inheritance
 
 
 ## Tools
-AngularJS Batarang (Chrome Extension): https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk  
-
+[AngularJS Chrome Extension](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)  
+[Yeoman](http://yeoman.io/)
 
 ## Help & Communities
 http://stackoverflow.com/questions/tagged/angularjs  
