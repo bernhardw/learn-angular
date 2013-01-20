@@ -52,6 +52,7 @@ http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp
 [AngularJS And Something For The Designers In My Life](http://onehungrymind.com/for-the-designers/)  
 [Notes On AngularJS Scope Life-Cycle](http://onehungrymind.com/notes-on-angularjs-scope-life-cycle/)  
 [Building Huuuuuge Apps with AngularJS](http://briantford.com/blog/huuuuuge-angular-apps.html)  
+[me&ngular.](http://stephenplusplus.github.com/meangular/)
 
 
 ## Seeds & Boilerplates
