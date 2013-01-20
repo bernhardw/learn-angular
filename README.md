@@ -73,9 +73,12 @@ AngularJS SignIt: https://github.com/ericterpstra/ngSignIt
 
 
 ## Blogs
-[Blog of Ben Nadel](http://www.bennadel.com/index.cfm)
-[One Hungry Mind](http://onehungrymind.com/)
-[Eric Terpstra](http://ericterpstra.com/)
+[Blog of Ben Nadel](http://www.bennadel.com/index.cfm)  
+[One Hungry Mind](http://onehungrymind.com/)  
+[Eric Terpstra](http://ericterpstra.com/)  
+[John Lindquist](http://johnlindquist.com/)  
+[Official Blog](http://blog.angularjs.org/)  
+[Brian Ford](http://briantford.com/blog/)  
 
 ## Other
 http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED  
