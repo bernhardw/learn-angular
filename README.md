@@ -47,17 +47,38 @@ http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.htm
 http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html
 
 
+## Articles
+[AngularJS Dynamic Templates – Yes We Can!](http://onehungrymind.com/angularjs-dynamic-templates/)  
+[AngularJS And Something For The Designers In My Life](http://onehungrymind.com/for-the-designers/)
+[Notes On AngularJS Scope Life-Cycle](http://onehungrymind.com/notes-on-angularjs-scope-life-cycle/)  
+
+
 ## Seeds & Boilerplates
 https://github.com/angular/angular-seed  
 https://github.com/thedigitalself/angular-sprout  
 https://github.com/angular-app/angular-app/  
 
+
 ## (Sample) Apps
 TwitterSearch: https://github.com/ThomasBurleson/angularJS-TwitterSearch  
+FoodMe: https://github.com/IgorMinar/foodme  
+AngularFun: https://github.com/CaryLandholt/AngularFun  
+TextDrive: https://github.com/GoogleChrome/textdrive-app  
+wReader: https://github.com/GoogleChrome/wReader-app  
+
+**More:** http://builtwith.angularjs.org/
+
 
 
 ## Blogs
 [Blog of Ben Nadel](http://www.bennadel.com/index.cfm)
+[One Hungry Mind](http://onehungrymind.com/)
+
+
+## Other
+http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED
+https://github.com/angular/angular.js/wiki/The-Nuances-of-Scope-Prototypal-Inheritance
+
 
 ## Help & Communities
 http://stackoverflow.com/questions/tagged/angularjs  
@@ -68,5 +89,5 @@ http://groups.google.com/group/angular
 ---
 
 ### Information
-
-    Please help keep this collection up-to-date and commit any additions you find.
+This is a work in progress.  
+Please help keep this collection up-to-date and commit any additions you find.
