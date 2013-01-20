@@ -11,8 +11,8 @@ A collection of resources & materials to help you learn AngularJS, the new risin
 ## Videos
 
 
-### AngularJS CRUD Tutorial:
-End-to-end web application tutorial in 3 parts by [Jeremy Howard](http://jphoward.wordpress.com/)  
+### Jeremy Howard (AngularJS CRUD Tutorial):
+End-to-end web application tutorial in 3 parts:  
 Part 1: http://www.youtube.com/watch?v=Ja2xDrtylBw *2013-01-16*  
 Part 2: http://www.youtube.com/watch?v=6WbVn_gYwQo *2013-01-14*  
 Part 3: http://www.youtube.com/watch?v=ilCH2Euobz0 *2013-01-16*    
@@ -23,7 +23,7 @@ Part 3: http://www.youtube.com/watch?v=ilCH2Euobz0 *2013-01-16*
 [Writing Directives](http://www.youtube.com/watch?v=WqmeI5fZcho) *2012-11-28*
 
 
-### John Lindquist
+### John Lindquist:
 [AngularJS Tutorial](http://www.youtube.com/watch?v=WuiHuZq_cg4) *00:12 h; 2012-04-03*  
 [AngularJS Routing](http://www.youtube.com/watch?v=5uhZCc0j9RY) *00:15 h; 2012-09-14*  
 [AngularJS - Behave like Gmail using Routes with Resolve](http://www.youtube.com/watch?v=P6KITGRQujQ) *00:08 h; 2012-09-14*  
@@ -35,11 +35,22 @@ Part 3: http://www.youtube.com/watch?v=ilCH2Euobz0 *2013-01-16*
 [AngularJS Tutorial](http://www.youtube.com/watch?v=WuiHuZq_cg4)  
 
 
-### Ben Nadel
+### Ben Nadel:
 [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS](http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)  
 [Rendering DOM Elements With ngRepeat In AngularJS](http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)  
 [Nested Views, Routing, And Deep Linking With AngularJS](http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)  
 [Creating A Custom Show / Hide Directive In AngularJS](http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
+
+
+### Lukas Ruebbelke:
+AngularJS Basics - Photo Album:  
+Part 1: http://www.youtube.com/watch?v=tKe25THBoF4  
+Part 2: http://www.youtube.com/watch?v=EjIMqxet9T8  
+Part 3: http://www.youtube.com/watch?v=rlxLox5Orgc  
+[AngularJS - Handy Tricks With Developer Tools](http://www.youtube.com/watch?v=4TM6wG9UW7s)  
+[AngularJS and DOM Manipulation](http://www.youtube.com/watch?v=bk-CC61zMZk)  
+[AngularJS - Communicating Between Controllers](http://www.youtube.com/watch?v=1OALSkJGsRw)
+
 
 
 ## Tutorials & Courses
