@@ -13,10 +13,10 @@ A collection of resources & materials to help you learn AngularJS, the new risin
 
 
 ### Jeremy Howard (AngularJS CRUD Tutorial):
-End-to-end web application tutorial in 3 parts:  
-Part 1: http://www.youtube.com/watch?v=Ja2xDrtylBw *2013-01-16*  
-Part 2: http://www.youtube.com/watch?v=6WbVn_gYwQo *2013-01-14*  
-Part 3: http://www.youtube.com/watch?v=ilCH2Euobz0 *2013-01-16*    
+End-to-end web application tutorial:
+[Part 1](http://www.youtube.com/watch?v=Ja2xDrtylBw) *2013-01-16* |
+[Part 2](http://www.youtube.com/watch?v=6WbVn_gYwQo) *2013-01-14* |
+[Part 3](http://www.youtube.com/watch?v=ilCH2Euobz0) *2013-01-16*
 
 
 ### AngularJS-Team:
@@ -44,10 +44,7 @@ Part 3: http://www.youtube.com/watch?v=ilCH2Euobz0 *2013-01-16*
 
 
 ### Lukas Ruebbelke:
-AngularJS Basics - Photo Album:  
-Part 1: http://www.youtube.com/watch?v=tKe25THBoF4  
-Part 2: http://www.youtube.com/watch?v=EjIMqxet9T8  
-Part 3: http://www.youtube.com/watch?v=rlxLox5Orgc  
+AngularJS Basics - Photo Album:  [Part 1](http://www.youtube.com/watch?v=tKe25THBoF4) | [Part 2](http://www.youtube.com/watch?v=EjIMqxet9T8) | [Part 3](http://www.youtube.com/watch?v=rlxLox5Orgc)  
 [AngularJS - Handy Tricks With Developer Tools](http://www.youtube.com/watch?v=4TM6wG9UW7s)  
 [AngularJS and DOM Manipulation](http://www.youtube.com/watch?v=bk-CC61zMZk)  
 [AngularJS - Communicating Between Controllers](http://www.youtube.com/watch?v=1OALSkJGsRw)
