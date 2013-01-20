@@ -6,6 +6,7 @@ A collection of resources & materials to help you learn AngularJS, the new risin
 [Phonecat Tutorial](http://docs.angularjs.org/tutorial)  
 [Developer Guide](http://docs.angularjs.org/guide/)  
 [API Reference](http://docs.angularjs.org/api/)  
+[Cookbook](http://docs.angularjs.org/cookbook/index)  
 
 
 ## Videos
