@@ -89,6 +89,14 @@ https://github.com/angular/angular.js/wiki/The-Nuances-of-Scope-Prototypal-Inher
 [AngularJS Chrome Extension](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)  
 [Yeoman](http://yeoman.io/)
 
+
+## Modules
+http://ngmodules.org/  
+http://angular-ui.github.com/  
+http://angular-ui.github.com/bootstrap/  
+https://github.com/mgcrea/angular-strap  
+
+
 ## Help & Communities
 http://stackoverflow.com/questions/tagged/angularjs  
 http://groups.google.com/group/angular
