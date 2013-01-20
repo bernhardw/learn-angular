@@ -66,6 +66,7 @@ FoodMe: https://github.com/IgorMinar/foodme
 AngularFun: https://github.com/CaryLandholt/AngularFun  
 TextDrive: https://github.com/GoogleChrome/textdrive-app  
 wReader: https://github.com/GoogleChrome/wReader-app  
+AngularJS SignIt: https://github.com/ericterpstra/ngSignIt
 
 **More:** http://builtwith.angularjs.org/
 
@@ -74,7 +75,7 @@ wReader: https://github.com/GoogleChrome/wReader-app
 ## Blogs
 [Blog of Ben Nadel](http://www.bennadel.com/index.cfm)
 [One Hungry Mind](http://onehungrymind.com/)
-
+[Eric Terpstra](http://ericterpstra.com/)
 
 ## Other
 http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED  
