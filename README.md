@@ -62,6 +62,7 @@ https://github.com/angular-app/angular-app/
 
 
 ## (Sample) Apps
+TodoMVC: https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/angularjs  
 TwitterSearch: https://github.com/ThomasBurleson/angularJS-TwitterSearch  
 FoodMe: https://github.com/IgorMinar/foodme  
 AngularFun: https://github.com/CaryLandholt/AngularFun  
