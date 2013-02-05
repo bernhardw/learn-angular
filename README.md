@@ -13,7 +13,7 @@ A collection of resources & materials to help you learn AngularJS, the new risin
 
 
 ### Egghead IO:  
-[Great video series](http://egghead.io/) from John Lindquist.
+[Great video series](http://egghead.io/) by John Lindquist.
 
 
 ### Jeremy Howard (AngularJS CRUD Tutorial):
