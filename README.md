@@ -12,6 +12,10 @@ A collection of resources & materials to help you learn AngularJS, the new risin
 ## Videos
 
 
+### Egghead IO:  
+[Great video series](http://egghead.io/) from John Lindquist.
+
+
 ### Jeremy Howard (AngularJS CRUD Tutorial):
 End-to-end web application tutorial:
 [Part 1](http://www.youtube.com/watch?v=Ja2xDrtylBw) *2013-01-16* |
