@@ -68,6 +68,7 @@ http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp
 https://github.com/angular/angular-seed  
 https://github.com/thedigitalself/angular-sprout  
 https://github.com/angular-app/angular-app/  
+https://github.com/CaryLandholt/AngularFun  
 
 
 ## (Sample) Apps
